@@ -1,0 +1,5 @@
+input.txt
+__pycache__/
+.envrc
+.direnv
+build/
