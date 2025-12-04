@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-import re
-
 dial = 50
 counterP1 = 0
 counterP2 = 0
